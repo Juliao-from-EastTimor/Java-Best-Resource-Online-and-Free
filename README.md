@@ -3,6 +3,6 @@
 
 If you want learn like me you just go to the link
 <ul>
-  <li><a href="https://www.w3schools.com/java/default.asp">https://www.w3schools.com/java/default.asp</a></li>
+  <li><a href="https://docs.oracle.com/javase/tutorial/java/TOC.html">https://docs.oracle.com/javase/tutorial/java/TOC.html</a></li>
   <li><a href="https://www.w3schools.com/java/default.asp">https://www.w3schools.com/java/default.asp</a></li>
 </ul>
