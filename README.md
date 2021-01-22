@@ -3,6 +3,8 @@
 
 If you want learn like me you just go to the link
 <ul>
-  <li><img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" width="60" height="60></img><br><ahref="https://docs.oracle.com/javase/tutorial/java/TOC.html">https://docs.oracle.com/javase/tutorial/java/TOC.html</a></li>
+  <img src="https://purepng.com/public/uploads/large/purepng.com-oracle-logologobrand-logoiconslogos-251519939816xngul.png" width="60" height="60></img>
+  <li><ahref="https://docs.oracle.com/javase/tutorial/java/TOC.html">https://docs.oracle.com/javase/tutorial/java/TOC.html</a></li>
+  <img src="https://image.winudf.com/v2/image1/Y29tLnBhcmFtb3VudC53M3NjaG9vbF9pY29uXzE1NzI1OTg0MzVfMDcy/icon.png?w=170&fakeurl=1" width="60" height="60></img>                                                               
   <li><a href="https://www.w3schools.com/java/default.asp">https://www.w3schools.com/java/default.asp</a></li>
 </ul>
