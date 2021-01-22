@@ -4,11 +4,12 @@
 If you want learn like me you just go to the link
 <ul>
   <li>
-    <img src="https://purepng.com/public/uploads/large/purepng.com-oracle-logologobrand-logoiconslogos-251519939816xngul.png" width="60" height="60></img>
     <a href="https://docs.oracle.com/javase/tutorial/java/TOC.html">https://docs.oracle.com/javase/tutorial/java/TOC.html</a>
   </li>
   <li>
-    <img src="https://image.winudf.com/v2/image1/Y29tLnBhcmFtb3VudC53M3NjaG9vbF9pY29uXzE1NzI1OTg0MzVfMDcy/icon.png?w=170&fakeurl=1" width="60" height="60></img>
     <a href="https://www.w3schools.com/java/default.asp">https://www.w3schools.com/java/default.asp</a>
   </li>
 </ul>
+
+## if you have link best resource about java tag with commit!
+<b>Juliao from East Timor :-)</b>
